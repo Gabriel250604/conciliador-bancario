@@ -5,3 +5,5 @@ build/
 dist/
 salida/
 ~$*
+*.spec
+conciliacion*.xlsx
